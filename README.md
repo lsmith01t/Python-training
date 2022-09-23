@@ -1,2 +1,2 @@
-# Python-training
-projects to develop python skills. 
+Welcome to my portfolio of python projects. 
+
